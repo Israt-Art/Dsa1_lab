@@ -10,7 +10,7 @@ All projects are organized into folders for easy navigation.
 - **ARRAY_DSA** – Practice problems and implementations related to arrays.  
 - **DSA_LINKED_LIST_PRACTICE** – Linked List exercises and implementations.  
 - **Queue_using_array** – Queue implementation using arrays.  
-- **cp2 submission** – Competitive programming submission files.  
+- **cp2 submission** – Class Performance submission files.  
 - **dsa1_class_code** – Class notes and code examples for DSA1.  
 - **dsa1_lab_assingment** – Lab assignments for DSA1 course.  
 - **dsa1_queue_problem** – Practice problems related to queues.  
@@ -30,7 +30,7 @@ All projects are organized into folders for easy navigation.
 - Array, Linked List, Stack, Queue, Trees  
 - Searching & Sorting algorithms  
 - BFS and DFS traversals  
-- Problem-solving for assignments and competitive programming  
+- Problem-solving for assignments 
 
 ---
 
